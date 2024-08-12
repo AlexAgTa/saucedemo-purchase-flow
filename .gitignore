@@ -1,0 +1,43 @@
+# Maven build directory
+target/
+
+# Maven wrapper
+.mvn/wrapper/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+
+# Gradle (if used in some parts)
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JUnit
+junit/
+
+# Serenity reports
+**/target/site/serenity/
